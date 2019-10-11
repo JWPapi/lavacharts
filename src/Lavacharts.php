@@ -25,7 +25,6 @@ use Khill\Lavacharts\Values\StringValue;
 use Khill\Lavacharts\Support\Traits\HasOptionsTrait as HasOptions;
 use Khill\Lavacharts\Support\Contracts\RenderableInterface as Renderable;
 
-require(__DIR__.'/Support/Traits/HasOptionsTrait.php');
 
 /**
  * Lavacharts - A PHP wrapper library for the Google Chart API
